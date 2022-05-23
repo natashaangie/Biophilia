@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: Roboto Condensed;
+	font-size: 20px;
+	background-color: #79be6a87;
+	margin: 0px;
+	padding-bottom: 40px;
+	text-align: center;
+
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
+	margin-top: 80px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: darkgreen;
+}
+
+
+
+

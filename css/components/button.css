@@ -1,0 +1,19 @@
+.btn-testimony {
+	background-color: #1a290c;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #82e982;
+	width: 600px;
+	font-family: Roboto Condensed;
+	margin-bottom: 50px;
+}
+
+.btn-gardening {
+	background-color: #1a290c;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #82e982;
+	width: 100px;
+	font-family: Roboto Condensed;
+}
+
